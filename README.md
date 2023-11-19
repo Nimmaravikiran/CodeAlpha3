@@ -1,3 +1,2 @@
-# CodeAlpha3
-
-Automated Email Sender
+# Automated Email Sender using python
+# SMTP
